@@ -1,0 +1,5 @@
+"The Beatles"	601.356
+"Madonna"	517.961
+"Elvis Presley"	476.344
+"The Rolling Stones"	293.3260000000001
+"Michael Jackson"	285.20400000000006
